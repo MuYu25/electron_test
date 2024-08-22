@@ -47,7 +47,7 @@ const data = [
         key : 0,
         name: `14`,
         description: `捡到一把黑色雨伞`,
-        owner: `金泽锋`,
+        owner: `xxx`,
         ownerDescription: `捡到一把雨伞，这个伞是在一食堂丢的，整体为黑色的伞，无其他配色。是一把自动伞`,
         image: `IMG_20240526_135258.jpg`
     }
